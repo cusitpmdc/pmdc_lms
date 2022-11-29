@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845840759030",
+    "project_id": "pmdc-lms",
+    "storage_bucket": "pmdc-lms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845840759030:android:0aa934bedccd6f97ba54d7",
+        "android_client_info": {
+          "package_name": "com.cusit.pmdc_lms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845840759030-m7ot2orhfl93o6shv4b581pfppku69n4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHPrvLG8JgRnJHRsddenmJCZSJ5Bypfek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845840759030-m7ot2orhfl93o6shv4b581pfppku69n4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
