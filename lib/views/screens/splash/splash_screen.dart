@@ -1,13 +1,12 @@
 import 'dart:convert';
 import 'dart:developer';
-
 import 'package:flutter/material.dart';
 import 'package:pmdc_lms/utils/app_constants.dart';
 import 'package:pmdc_lms/views/screens/auth/login_screen.dart';
 import 'package:pmdc_lms/views/screens/dashboard/dashboard_screen.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
-class SplashScreen extends StatefulWidget {
+class  SplashScreen extends StatefulWidget {
   const SplashScreen({Key? key}) : super(key: key);
 
   static const String id = '/';
